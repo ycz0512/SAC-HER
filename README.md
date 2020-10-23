@@ -30,7 +30,9 @@ cp <installation_path_of_mujoco>/mjpro150/bin/libglfw.so.3 <installation_path_of
 
 `cp <mujoco_key_folder>/mjkey.txt <installation_path_of_rllab>/rllab/vendor/mujoco`
 
-### Install Requirements
+### Requirements
+
+To install requirements, run:
 
 `pip install -r requirements.txt`
 
