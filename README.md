@@ -2,7 +2,7 @@
 This framework provides an implementation of SAC-HER algorithm which enables the training of goal-conditioned policies to perform goal-based robotic tasks on standard *OpenAI Gym* environments.
 
 SAC-HER achieves competitive performances with corresponding *gym* baselines in terms of the sample efficiency and asymtotic performance.
-(in some tasks even better)
+(In some tasks even better)
 
 ## Getting Started
 
