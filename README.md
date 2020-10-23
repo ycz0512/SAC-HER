@@ -54,7 +54,7 @@ python examples/run_sac_her.py --env=FetchPush --exp_name=sac-her
 
 - `FetchPush` can be replaced with other goal-based roboric environments.
 - `--exp_name` specifies the experiment name. If you remove the flag, the experiment name will be the current timestamp by default.
-- The log(.csv) and model(.pkl) will be saved to the `./data` directory by default. But the output directory can also be specified with `--log_dir=[log-directory]`.
+- The log(.csv) and model(.pkl) will be saved to the `data/` directory by default. But the output directory can also be specified with `--log_dir=[log-directory]`.
 
 ### SAC
 
